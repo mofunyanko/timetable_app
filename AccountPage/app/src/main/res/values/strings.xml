@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ようこそ！</string>
+    <string name="wel_msg">必要な情報を入力してください。 </string>
+    <string name="nickname">二ックネーム</string>
+    <string name="email">メールアドレス</string>
+    <string name="cl_num">クラス</string>
+    <string name="pw">パスワード</string>
+    <string name="re_pw">パスワード（確認）</string>
+    <string name="bt_reg">登録</string>
+</resources>
