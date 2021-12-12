@@ -18,7 +18,7 @@
             android:layout_weight="1">
 
             <Button
-                android:id="@+id/subFirst"
+                android:id="@+id/monFirst"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_marginTop="-5dp"
@@ -40,8 +40,9 @@
                 android:layout_marginBottom="-5dp"
                 android:layout_weight="1"
                 android:backgroundTint="#ffffff"
-                android:text="@string/none"
-                android:textColor="#A9A9A9" />
+                android:text="@string/mon_data1"
+                android:textColor="#A9A9A9"
+                android:textSize="18sp" />
 
         </TableRow>
 
@@ -51,7 +52,7 @@
             android:layout_weight="1">
 
             <Button
-                android:id="@+id/subSecond"
+                android:id="@+id/monSecond"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_marginTop="-5dp"
@@ -73,8 +74,9 @@
                 android:layout_marginBottom="-5dp"
                 android:layout_weight="1"
                 android:backgroundTint="#ffffff"
-                android:text="@string/none"
-                android:textColor="#A9A9A9" />
+                android:text="@string/mon_data2"
+                android:textColor="#A9A9A9"
+                android:textSize="18sp"/>
         </TableRow>
 
         <TableRow
@@ -83,7 +85,7 @@
             android:layout_weight="1">
 
             <Button
-                android:id="@+id/subThird"
+                android:id="@+id/monThird"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_marginTop="-5dp"
@@ -106,7 +108,8 @@
                 android:layout_weight="1"
                 android:backgroundTint="#ffffff"
                 android:text="@string/none"
-                android:textColor="#A9A9A9" />
+                android:textColor="#A9A9A9"
+                android:textSize="18sp"/>
         </TableRow>
 
         <TableRow
@@ -115,7 +118,7 @@
             android:layout_weight="1">
 
             <Button
-                android:id="@+id/subFourth"
+                android:id="@+id/monFourth"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_marginTop="-5dp"
@@ -138,7 +141,8 @@
                 android:layout_weight="1"
                 android:backgroundTint="#ffffff"
                 android:text="@string/none"
-                android:textColor="#A9A9A9" />
+                android:textColor="#A9A9A9"
+                android:textSize="18sp"/>
         </TableRow>
 
         <TableRow
@@ -147,7 +151,7 @@
             android:layout_weight="1">
 
             <Button
-                android:id="@+id/subFifth"
+                android:id="@+id/monFifth"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_marginTop="-5dp"
@@ -170,7 +174,8 @@
                 android:layout_weight="1"
                 android:backgroundTint="#ffffff"
                 android:text="@string/none"
-                android:textColor="#A9A9A9" />
+                android:textColor="#A9A9A9"
+                android:textSize="18sp"/>
         </TableRow>
     </TableLayout>
 </LinearLayout>

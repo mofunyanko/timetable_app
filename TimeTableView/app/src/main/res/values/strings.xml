@@ -3,4 +3,17 @@
 
     <string name="none">空きコマ</string>
 
+    <string name="mon_data1">情報工学代数学\n蜷川 繁\n23.221</string>
+    <string name="mon_data2">ソフトウェアデザイン\n黒瀬 浩\n8.501</string>
+    <string name="tue_data1">オペレーティングシステム\n阿部 倫之\n23.333</string>
+    <string name="tue_data2">日本学A\n平泉 紀房\n8.201</string>
+    <string name="tue_data3">組込みシステム\n鷹合 大輔・田村 修\n23.221</string>
+    <string name="tue_data4">情報ネットワーク\n向井 宏明\n23.218</string>
+    <string name="wed_data1">アドバンスト数理B\n北島 孝浩\n23.514</string>
+    <string name="thu_data1">確率と統計\n金道 敏樹\n8.404</string>
+    <string name="thu_data2">アルゴリズムデザイン\n元木 光雄\n23.333</string>
+    <string name="fri_data1">アカデミックリーディング1\nヴ ガン\n1.108</string>
+    <string name="fri_data3">プロジェクトデザイン実践\n西川 幸延\n24.305</string>
+    <string name="fri_data4">プロジェクトデザイン実践\n西川 幸延\n24.305</string>
+
 </resources>
